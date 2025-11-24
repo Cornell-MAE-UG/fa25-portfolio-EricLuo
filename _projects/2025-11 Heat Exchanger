@@ -8,9 +8,23 @@ image: /assets/images/Brazed plate heat exchanger cut away.jpg
 <h3> Introduction </h3>
 As part of a class project, our group conducted an analysis on the performance of a brazed plate heat exchanger when used with heated and chilled water. In the image below, the heat exchanger is set to operate in a counter-flow configuration. We also took measurements regarding a parallel flow configuration. 
 
-<img src="/assets/images/Setup wet.JPG" width="500" /> <br> <br>
+<img src="/assets/images/Setup wet.JPG" width="500" /> <br> 
+For this setup, we used two submersible water pumps to pump water from resevoirs, through the heat exchanger and into catch buckets.
+<br>
+<br>
 
 <h3> Diagram </h3>
+
+<br>
+
+
+<h3> Qualitative Notes </h3>
+<ul style="list-style-type:disc;">
+<li>While running, the sides of the heat exchanger felt noticibly warm or cold to the touch, indicating that the heat exchanger was not truely adiabatic. </li>
+<li>Additionally, counter-flow resulted in a greater temperature differential. Though it may be surprising that changing the directions of the flow would impact the efficiency of the heat exchanger, this makes sense, as in parallel flow, the two lines approach each other's temperature. However, in counter-flow, it is possible for each line to approach the original temperature the opposite resevoir. </li>
+</ul>
+
+<br> <br>
 
 
 
