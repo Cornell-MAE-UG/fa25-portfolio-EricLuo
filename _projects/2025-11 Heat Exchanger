@@ -5,6 +5,7 @@ description: Class project with heat exchanger
 technologies: [Thermodynamics, Heat Exchanger]
 image: /assets/images/Brazed plate heat exchanger cut away.jpg 
 ---
+
 <h3> Introduction </h3>
 As part of a class project, our group conducted an analysis on the performance of a brazed plate heat exchanger when used with heated and chilled water. In the image below, the heat exchanger is set to operate in a counter-flow configuration. We also took measurements regarding a parallel flow configuration. 
 
@@ -16,8 +17,19 @@ For this setup, we used two submersible water pumps to pump water from resevoirs
 <h3> Diagram </h3>
 
 <br>
+<h3> Calculations </h3>
+<ul><li>Enthalpy values from <a href = "https://www.engineeringtoolbox.com/water-properties-d_1508.html"> Engineering Toolbox </a> </li> </ul>
 
+<h5> Assumptions </h5>
+<ul style="list-style-type:disc;">
+<li> I assumed that there was minimal change in velocity and elevation between the entrance and exit of the heat exchanger, resulting in minimal change in kinetic and gravitational potential energy </li>
+<li> As noted below, there was more than one heat flow into the system. Heat likely flowed into the cold side of the heat exchanger, while simulanteously flowing out of the hot side. Unfortunately, my group did not take quantatative measurements of the temperature on each side of the heat exchanger, nor of the ambient air.
+    <ul> 
+    <li> Instead, in my diagrams and calculations, I generalized a single 'Q_ambient'aa term </li>
+    </ul>
+ </li>
 
+</ul>
 <h3> Qualitative Notes </h3>
 <ul style="list-style-type:disc;">
 <li>While running, the sides of the heat exchanger felt noticibly warm or cold to the touch, indicating that the heat exchanger was not truely adiabatic. </li>
